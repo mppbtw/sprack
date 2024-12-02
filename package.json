@@ -1,0 +1,25 @@
+{
+  "name": "sprack",
+  "version": "1.0.0",
+  "description": "Simple Node sprite packer to create sufficiently-optimized spritesheets for video games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/mppbtw/sprack"
+  },
+  "keywords": [
+    "sprack",
+    "sprite",
+    "packer",
+    "sprite",
+    "packer",
+    "nodejs",
+    "game",
+    "spritesheet"
+  ],
+  "author": "mppbtw",
+  "license": "MIT"
+}
