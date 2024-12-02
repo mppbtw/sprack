@@ -21,5 +21,9 @@
     "spritesheet"
   ],
   "author": "mppbtw",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "image-size": "^1.1.1"
+  }
 }
